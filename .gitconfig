@@ -1,0 +1,6 @@
+[user]
+	name = Aidan Bennett
+	email = aidanbennett1103@gmail.com
+	signingkey = 
+[commit]
+	gpgsign = true
